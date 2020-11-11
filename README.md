@@ -1,4 +1,5 @@
 ## Вывод программы
+
 Start solving task:
 7x1 + 5x2 + 3x3 -> max
 4x1 + x2 + x3 <= 4
